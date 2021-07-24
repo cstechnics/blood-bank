@@ -27,7 +27,7 @@
     }
       
     tr:nth-child(odd) {
-      background: rgb(214, 197, 200);
+      background: #f9f9d5;
     }
     
 		td {
