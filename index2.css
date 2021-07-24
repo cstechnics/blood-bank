@@ -2,7 +2,7 @@
 	Max width before this PARTICULAR table gets nasty. This query will take effect for any screen smaller than 760px and also iPads specifically.
 	*/
     body{
-        background-color: #de9280;
+        background-color: #f9f9d5;
     }
 	@media
 	  only screen 
@@ -27,7 +27,7 @@
     }
       
     tr:nth-child(odd) {
-      background: #f9f9d5;
+      background: #b88973;
     }
     
 		td {
