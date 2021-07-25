@@ -3,7 +3,7 @@ html{
 }
 .btn-warning,
 .btn-warning:hover,
-
+.btn-primary:active,
 .btn-warning:visited,
 .btn-warning:focus {
     background-color: #ffb4b4;
