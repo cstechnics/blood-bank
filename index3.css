@@ -2,13 +2,11 @@ html{
     background-color:rgb(224, 0, 0);
 }
 .btn-warning,
-
-.btn-warning:active,
-.btn-warning:visited,
-.btn-warning:focus {
-    background-color: #ffb4b4;
-    border-color: #c41104;
-}
+.btn-warning:hover, 
+.btn-warning:active, 
+.btn-warning:visited {
+        background-color: #ffb4b4 !important;
+    }
 /* .btn-primary,
 .btn-primary:hover,
 .btn-primary:active,
