@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="blood.css">
 </head>
 <body>
-    <div class="col-xs-3 col-sm-3 col-lg-12">
+    <div class="col-xs-3 col-sm-3 col-lg-6">
         <img src="img/24541025-give-blood-blood-bag-and-drop-of-blood.jpg" style="max-width:100%;height:auto;">
     
     </div>
@@ -18,7 +18,8 @@ pass = prompt("Access Denied");
 if (pass == "blood123") {
   document.location.href = "index3.html";
 } else {
-  document.write("Access Denied");
+  // document.write("Access Denied");
+  document.write('<h2 style="text-align: center;">Access Denied</h2>');
 }
 </script>
 
